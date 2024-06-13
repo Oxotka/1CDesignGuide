@@ -87,7 +87,7 @@
 
    <img src=img/highlightGroup.png width=500>
 
-6. Обычное выделение имеет больший отступ вокруг себя
+6. Обычное выделение имеет больший отступ вокруг себя. [Подробнее о слабом и обычном отображении групп](https://t.me/Aripovn/31)
    
    <img src=img/representationGroup.gif width=500>
 
