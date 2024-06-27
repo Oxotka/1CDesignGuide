@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/4/799152816.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=27e2878921a84be3805410324117c660&amp;pm=s)
+
 # Гайд для создания форм на 1С
 
 **Идея:**
