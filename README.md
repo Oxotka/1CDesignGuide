@@ -12,10 +12,10 @@
 
 **Что уже есть:**
 
-1. Стандарты по оформлению форм - <https://its.1c.ru/db/v8std#browse:13:-1:11>
-2. Maker - <https://1cmaker.com/>
-3. Хитрости и советы по созданию форм - <https://rarus.ru/publications/20220530-ot-ekspertov-hitrosti-po-sozdaniyu-form-1c-532555/>
-4. Контур.Гайды - <https://guides.kontur.ru/>
+1. [Стандарты по оформлению форм](https://its.1c.ru/db/v8std#browse:13:-1:11)
+2. [Maker](https://1cmaker.com/)
+3. [Хитрости и советы по созданию форм](https://rarus.ru/publications/20220530-ot-ekspertov-hitrosti-po-sozdaniyu-form-1c-532555/)
+4. [Контур.Гайды](https://guides.kontur.ru/)
 5. Алан Купер об интерфейсе. Основы проектирования взаимодействия
 
 Возможно, что-то есть еще, но быстрым поиском не нашел
