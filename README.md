@@ -8,6 +8,7 @@
 2. [Хитрости и советы по созданию форм от Рарус](https://rarus.ru/publications/20220530-ot-ekspertov-hitrosti-po-sozdaniyu-form-1c-532555/)
 3. [Контур.Гайды](https://guides.kontur.ru/)
 4. Алан Купер об интерфейсе. Основы проектирования взаимодействия
+5. Репозиторий [UX-1C:Элементы интерфейса 1С](https://github.com/shch-anna/ux-1c) + [Курс](https://infostart.ru/edu/1945932/?ID=1945932)
 
 **Дизайн:**
 
