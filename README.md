@@ -429,3 +429,9 @@
 Подпишитесь на мой [Телеграм канал](https://t.me/AriN1C) или [купите мне кофе](https://boosty.to/1cnik/donate)
 
 [↑ Наверх](#гайд-для-создания-форм-на-1с)
+
+[<img src='https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg'>](https://infostart.ru/1c/articles/2167324/)
+
+Прочитайте и поставьте + этой статье на Инфостарт - [Гайд для создания форм на 1С](https://infostart.ru/1c/articles/2167324/)
+
+[↑ Наверх](#гайд-для-создания-форм-на-1с)
