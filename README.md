@@ -1,4 +1,4 @@
-[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/4/799152816.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=27e2878921a84be3805410324117c660&amp;pm=s) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-green)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-green)](http://infostart.ru/profile/237528/)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/4/799152816.json)](https://openyellow.org/grid?data=top&repo=799152816) [![Static Badge](https://img.shields.io/badge/my%20telegram-channel-green)](https://t.me/AriN1C) [![Static Badge](https://img.shields.io/badge/infostart-profile-green)](http://infostart.ru/profile/237528/)
 
 <img src=img/designGuide.png width=900>
 
